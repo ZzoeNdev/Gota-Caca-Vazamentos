@@ -1035,6 +1035,7 @@ footer{
 @media (max-width: 1000px) {
 
     header{
+        z-index: 112;
         transition: 0.2s;
         width: 90vw;
         display: flex;
